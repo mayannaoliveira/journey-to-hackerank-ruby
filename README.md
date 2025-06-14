@@ -16,7 +16,7 @@
 </div>
 </br>
  
-# Journey to HackeRank SQL
+# Journey to HackeRank Ruby
 
 [HackerRank](https://www.hackerrank.com/) is an excellent platform to learn programming, this repository is all of my steps in HackerRank learning more about Ruby peogramming.
 
