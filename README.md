@@ -8,7 +8,8 @@
 </div>
 </br>
 <div align="center">
-    <img src="https://img.shields.io/badge/HackerRank-Ruby-00EA64?&style=flat&logo=hackerrank&logoColor=white" alt="sql" />
+    <img src="https://img.shields.io/badge/HackerRank-Ruby-CC342D?&style=flat&logo=hackerrank&logoColor=white" alt="sql" />
+    <img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=flat&logo=Ruby&logoColor=white" alt="ruby" />
     <a href="https://stackoverflow.com/users/16884312/mayanna"> 
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="sql" />
     </a>
@@ -25,6 +26,8 @@
 - [Ruby Tutorial - Object Method Parameters](object-method-parameters.md)
 - [Ruby - Methods - Variable Arguments](variable-arguments.md)
 - [Ruby - Methods - Keyword Arguments](keyword-arguments.md)
+- [Ruby Control Structures - Each](ruby-control-structures-each.md)
+- [Ruby Control Structures - Unless](ruby-control-structures-unless.md)
  
 
 Follow my profile in [HackerRank](https://www.hackerrank.com/profile/mayannait).
