@@ -34,6 +34,10 @@ Follow my profile in [HackerRank](https://www.hackerrank.com/profile/mayannait).
 
 Please read [Code of Conduct](Code_of_Conduct.md) before fork this repository.
 
+### :medal_sports: My Badges in HackerRank
+
+<img alt="points" src="https://hackerrank-stats.vercel.app/api?username=mayannait"/>
+
 ## Contributors
 <table>
   <tbody>
